@@ -11,8 +11,7 @@ The purpose of this challenge is to test your ability to:
 
 GETTING STARTED
 
-To get started, you'll need to run these files on a PHP web server. Make sure PHP is installed and you can use the following command: "php -S localhost:8000"
-Once it's running, you can bypass the "Trial Expiry" limitation by accessing the url with "/docs" on the end (such as http://localhost:8000/docs). Once the demo project is running, refer to the below 2 tasks for this challenge.
+To get started, you'll need to clone this repo to your local PC and run these files on a PHP web server. Make sure PHP is installed and you can use the following command to run the web server: "php -S localhost:8000". Once it's running, access the url with "/docs" on the end (such as http://localhost:8000/docs) as this will bypass the "Trial Expiry" limitation. Refer to the below 2 tasks for this challenge. After you have completed your work, upload it to your github account and provide us the link to the repo.
 
 
 TASK 1 - Create Side Panel
