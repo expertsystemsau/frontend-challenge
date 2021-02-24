@@ -24,6 +24,6 @@ TASK 1 - Create Side Panel (UI slicing)
 TASK 2 - Implement Drag & Drop (Development)
 
 - In the side panel you created, the user should be able to drag a task from the panel onto the scheduler board (in Bryntum these are called events)
-- Refer to this example to see how the drag feature should work from a panel onto the scheduler https://www.bryntum.com/examples/scheduler/react/javascript/drag-from-grid. You will also find the zipped source code files for the drag demo contained with this repo "dragdropdemo.zip"
+- Refer to this example to see how the drag feature should work from a panel onto the scheduler https://www.bryntum.com/examples/scheduler/react/javascript/drag-from-grid. You will also find the zipped source code files for the drag demo contained with this repo "dragfromgrid.zip"
 - When the user drags the task over the scheduler, it should create an event block like the above example
 - When the user releases the task onto the scheduler, hide the task from the side panel
