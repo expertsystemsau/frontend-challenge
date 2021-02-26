@@ -5,7 +5,7 @@ PURPOSE
 The purpose of this challenge is to test your ability to:
 - Replicate a design using html/css/react
 - Create basic react components and shared components
-- Work with 3rd party components (i.e. Bryntum Scheduler)
+- Work with 3rd party components (Bryntum Scheduler)
 - Handle drag/drop events, object handling and user interaction
 
 
@@ -23,5 +23,5 @@ TASK 1 - Create Side Panel (UI slicing)
 
 TASK 2 - Implement Drag & Drop (Development)
 
-- In the side panel you created, the user should be able to drag a task from the panel onto the scheduler board (in Bryntum these are called events)
-- Refer to this example to see how the drag feature should work from a panel onto the scheduler https://www.bryntum.com/examples/scheduler/dragfromgrid/. You will also find the zipped source code files for the drag demo contained with this repo "dragfromgrid.zip" which you will need
+- In the side panel you created in Task 1, the user should be able to drag a task from the panel onto the scheduler board (in Bryntum these are called events)
+- Refer to this example to see how the drag feature should work from a panel onto the scheduler https://www.bryntum.com/examples/scheduler/dragfromgrid/. You will also find the zipped source code files for the drag demo contained with this repo "dragfromgrid.zip" which you will need and can also refer to the code on the online demo
