@@ -30,13 +30,12 @@ TASK 2 - Implement Drag & Drop (Development)
 - Leverage Bryntum's existing classes and helpers to achieve the outcome
 
 
-TIP: Bryntum's dragfromgrid demo uses the unplanned grid component which will not be used in this challenge. Once the task is dropped, be sure to use the SchedulerEventModel class and define the basic properties before the task is added to the eventstore like this:
+TIP: Bryntum's dragfromgrid demo uses the unplanned grid component which will not be used in this challenge. Once the task is dropped, be sure to use the SchedulerEventModel class and define the basic properties before the task is added to the eventStore, like this:
 
 let droppedTask = new SchedulerEventModel({
     'startDate': ...,
     'durationUnit': ...,
     'duration': ...,
     'name': ...
-})
+});
 droppedTask.resource  = context.resource;
-  
