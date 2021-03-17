@@ -38,4 +38,5 @@ let droppedTask = new SchedulerEventModel({
     'duration': ...,
     'name': ...
 });
+
 droppedTask.resource  = context.resource;
